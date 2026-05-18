@@ -1,0 +1,46 @@
+# Python environment and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Datasets and generated artifacts
+data/
+dataset/
+datasets/
+Olfactory/
+photic_data/
+preprocessed/
+features/
+models/
+results/
+figures/
+paper/
+__MACOSX/
+
+# Large/raw data formats
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.mat
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
